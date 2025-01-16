@@ -5,3 +5,7 @@ console.log(v);
 let g = document.querySelectorAll('a');
 console.dir(g);
 console.log(g);
+//using property $ method 
+// innerTEXT.....................
+let text  = document.querySelector('h1');
+console.dir(text);
