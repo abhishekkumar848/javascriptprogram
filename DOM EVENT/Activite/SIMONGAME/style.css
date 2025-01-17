@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+
+.main{
+ 
+ 
+ 
+ 
+ justify-content: center;
+ display: flex;
+}
+.item{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 20%;
+    margin: 20px;
+}
+.green{
+    background-color: rgb(84, 246, 84);
+
+}
+.pupple{
+    background-color: rgb(219, 105, 219);
+}
+.red{
+    background-color: rgb(221, 64, 64);
+
+}
+.yellow{
+    background-color: yellow;
+}
