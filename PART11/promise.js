@@ -9,4 +9,11 @@ function saveData(data) {
     })
     
 }
-console.log(saveData("ABHISHEK "));
+// console.log(saveData("ABHISHEK "));
+
+// THEN & CATCH METHOD
+saveData("abhishek kumar").then(()=>{
+    console.log("complete a data connect")
+}).catch(()=>{
+    console.log("not connected a data ")
+})
