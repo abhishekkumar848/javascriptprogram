@@ -20,3 +20,4 @@ console.log(data);
 // into json object 
 let select = JSON.parse(data);
 console.log(select.gender.M);
+
